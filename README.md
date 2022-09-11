@@ -34,3 +34,6 @@
 Abdelmonem-abotaleb/Abdelmonem-abotaleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<a href="https://app.daily.dev/abdelmonem"><img src="https://api.daily.dev/devcards/48995d4a8436420a840c58383512f0ec.png?r=17r" width="400" alt="abdelmonem hossam's Dev Card"/></a>
